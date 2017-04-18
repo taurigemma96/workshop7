@@ -1,3 +1,4 @@
+//forgot to make this commit earlier for stringfied
 var token = 'eyJpZCI6IjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNCJ9';
 /**
  * Properly configure+send an XMLHttpRequest with error handling, authorization token,
